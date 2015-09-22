@@ -1,0 +1,25 @@
+{
+  "name": "CouchCast",
+  "version": "0.1.0",
+  "authors": [
+    "Cory Evan Wright <besublime@gmail.com>"
+  ],
+  "description": "Watch live podcasts and chat from your couch.",
+  "main": "index.html",
+  "keywords": [
+    "podcasts",
+    "netcasts",
+    "irc"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "skeleton": "skeleton-css#~2.0.4"
+  }
+}
